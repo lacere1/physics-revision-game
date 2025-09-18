@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Wave speed v equals…",
+    "options": [
+      "f/λ",
+      "fλ",
+      "λ/f",
+      "f + λ"
+    ],
+    "answer": 2,
+    "explanation": "v = f λ.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Longitudinal waves have…",
+    "options": [
+      "Oscillations perpendicular to propagation",
+      "Oscillations parallel to propagation",
+      "No oscillations",
+      "Circular oscillations"
+    ],
+    "answer": 2,
+    "explanation": "Sound is longitudinal; light is transverse.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Refraction happens because…",
+    "options": [
+      "Frequency changes between media",
+      "Wavelength and speed change between media",
+      "Amplitude changes only",
+      "Phase always flips"
+    ],
+    "answer": 2,
+    "explanation": "Frequency stays the same; speed and wavelength change.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The electromagnetic spectrum in increasing frequency is…",
+    "options": [
+      "Radio→Microwave→Infrared→Visible→UV→X‑ray→Gamma",
+      "Gamma→X‑ray→UV→Visible→IR→Microwave→Radio",
+      "Visible→IR→UV→X‑ray→Gamma→Radio→Microwave",
+      "UV→Visible→IR→Microwave→Radio→X‑ray→Gamma"
+    ],
+    "answer": 1,
+    "explanation": "That’s the standard low‑to‑high frequency order.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which colour has the shortest wavelength in visible light?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Violet"
+    ],
+    "answer": 4,
+    "explanation": "Violet has the highest frequency and shortest wavelength in visible.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 5 kHz sound wave in air (v≈340 m/s) has wavelength…",
+    "options": [
+      "0.068 m",
+      "0.6 m",
+      "1.5 m",
+      "68 m"
+    ],
+    "answer": 1,
+    "explanation": "λ = v/f ≈ 340 / 5000 ≈ 0.068 m.",
+    "difficulty": "Medium"
+  }
+]

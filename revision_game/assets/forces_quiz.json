@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Which equation links resultant force F, mass m and acceleration a?",
+    "options": [
+      "F = ma",
+      "F = mv",
+      "F = m/a",
+      "F = m+ a"
+    ],
+    "answer": 1,
+    "explanation": "Newton’s Second Law: F = m a.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 5 N force acts on a 2 kg mass. Acceleration is…",
+    "options": [
+      "2.5 m/s²",
+      "0.4 m/s²",
+      "10 m/s²",
+      "5 m/s²"
+    ],
+    "answer": 1,
+    "explanation": "a = F/m = 5 / 2 = 2.5 m/s².",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which pair is an action–reaction pair (Newton’s 3rd Law)?",
+    "options": [
+      "Weight of book & normal on book",
+      "Book on table & table on book",
+      "Friction & driving force on same object",
+      "Weight & friction"
+    ],
+    "answer": 2,
+    "explanation": "Forces in a 3rd‑law pair act on different objects: book on table ↔ table on book.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Momentum p equals…",
+    "options": [
+      "m/a",
+      "m v",
+      "m g",
+      "F t"
+    ],
+    "answer": 2,
+    "explanation": "Momentum is p = m v. (Impulse FΔt changes momentum.)",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Stopping distance equals…",
+    "options": [
+      "Thinking + braking distance",
+      "Only braking distance",
+      "Only thinking distance",
+      "Reaction time × speed"
+    ],
+    "answer": 1,
+    "explanation": "Total stopping distance = thinking distance + braking distance.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Hooke’s Law (within limit of proportionality) states…",
+    "options": [
+      "F ∝ 1/x",
+      "F ∝ x",
+      "F = constant",
+      "F ∝ x²"
+    ],
+    "answer": 2,
+    "explanation": "Extension is proportional to applied force: F = kx.",
+    "difficulty": "Medium"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Magnetic field lines go from…",
+    "options": [
+      "South to North externally",
+      "North to South externally",
+      "North to North",
+      "Randomly"
+    ],
+    "answer": 2,
+    "explanation": "By convention, outside a magnet, lines go N → S.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A current‑carrying wire in a magnetic field experiences a force given by…",
+    "options": [
+      "F = BIL sinθ",
+      "F = qvB cosθ",
+      "F = BI/θ",
+      "F = B/I"
+    ],
+    "answer": 1,
+    "explanation": "Motor effect: F = B I L sinθ.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Right‑hand grip rule gives…",
+    "options": [
+      "Force direction",
+      "Field around a wire",
+      "Charge motion",
+      "Induced emf direction"
+    ],
+    "answer": 2,
+    "explanation": "Thumb = current, fingers curl = field direction.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Electromagnetic induction occurs when…",
+    "options": [
+      "A charge is stationary in a field",
+      "Magnetic flux through a circuit changes",
+      "Resistance increases",
+      "A battery is added"
+    ],
+    "answer": 2,
+    "explanation": "Changing magnetic flux induces an emf (Faraday’s law).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A transformer with more turns on the secondary than primary is…",
+    "options": [
+      "Step‑down",
+      "Step‑up",
+      "Isolating",
+      "Autotransformer"
+    ],
+    "answer": 2,
+    "explanation": "More turns on secondary → higher voltage → step‑up.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which device uses the motor effect directly?",
+    "options": [
+      "Microphone (dynamic)",
+      "Loudspeaker",
+      "Thermistor",
+      "Photodiode"
+    ],
+    "answer": 2,
+    "explanation": "A loudspeaker uses the motor effect; a dynamic microphone uses induction.",
+    "difficulty": "Medium"
+  }
+]

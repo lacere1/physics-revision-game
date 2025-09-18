@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Current is defined as…",
+    "options": [
+      "Energy per unit charge",
+      "Charge per unit time",
+      "Potential difference per unit charge",
+      "Resistance per unit length"
+    ],
+    "answer": 2,
+    "explanation": "I = ΔQ/Δt.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ohm’s law materials have…",
+    "options": [
+      "V proportional to I",
+      "I proportional to R",
+      "R proportional to V",
+      "Power proportional to R"
+    ],
+    "answer": 1,
+    "explanation": "Ohmic conductors: V ∝ I at constant temperature (R constant).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which formula for electrical power is correct?",
+    "options": [
+      "P = IV",
+      "P = I/R",
+      "P = V/R",
+      "P = Q/t"
+    ],
+    "answer": 1,
+    "explanation": "Power P = IV (also P = I²R or P = V²/R).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two resistors R₁ and R₂ in series have total…",
+    "options": [
+      "Rₜ = R₁ + R₂",
+      "Rₜ = (R₁R₂)/(R₁+R₂)",
+      "Rₜ = R₁ − R₂",
+      "Rₜ = 1/R₁ + 1/R₂"
+    ],
+    "answer": 1,
+    "explanation": "Series resistances add directly.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In parallel, the supply voltage across each branch is…",
+    "options": [
+      "Zero",
+      "Shared unequally",
+      "The same",
+      "Double"
+    ],
+    "answer": 3,
+    "explanation": "All parallel branches have the same potential difference.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 12 V battery delivers 2 A. Power is…",
+    "options": [
+      "6 W",
+      "10 W",
+      "24 W",
+      "144 W"
+    ],
+    "answer": 3,
+    "explanation": "P = IV = 12 × 2 = 24 W.",
+    "difficulty": "Medium"
+  }
+]

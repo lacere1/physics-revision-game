@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Kinetic energy equals…",
+    "options": [
+      "½ m v²",
+      "m g h",
+      "m v",
+      "F s"
+    ],
+    "answer": 1,
+    "explanation": "KE = ½ m v².",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Gravitational potential energy near Earth’s surface is…",
+    "options": [
+      "½ m v²",
+      "m g h",
+      "m/a",
+      "P t"
+    ],
+    "answer": 2,
+    "explanation": "GPE = m g h.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Power is…",
+    "options": [
+      "Energy transferred per unit time",
+      "Force per unit distance",
+      "Charge per unit time",
+      "Mass per unit time"
+    ],
+    "answer": 1,
+    "explanation": "P = ΔE / Δt.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Efficiency equals…",
+    "options": [
+      "Useful energy / total input",
+      "Total input / useful energy",
+      "Wasted / useful",
+      "Power × time"
+    ],
+    "answer": 1,
+    "explanation": "Often expressed as a percentage.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 2 kg object falls 5 m (g≈9.8 m/s²). Ignoring losses, speed at bottom is about…",
+    "options": [
+      "3.1 m/s",
+      "7.0 m/s",
+      "9.9 m/s",
+      "14 m/s"
+    ],
+    "answer": 3,
+    "explanation": "mgh ≈ ½mv² → v ≈ √(2gh) ≈ √(98) ≈ 9.9 m/s.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Specific heat capacity c is…",
+    "options": [
+      "Energy to raise 1 kg by 1 °C",
+      "Energy to melt 1 kg",
+      "Energy per coulomb",
+      "Power per area"
+    ],
+    "answer": 1,
+    "explanation": "Definition of specific heat capacity.",
+    "difficulty": "Medium"
+  }
+]

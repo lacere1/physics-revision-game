@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Which subatomic particle has a relative charge of +1?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Positron"
+    ],
+    "answer": 2,
+    "explanation": "Protons carry +1, electrons −1, neutrons 0, positrons +1 but are antiparticles. The standard nucleus particle with +1 is the proton.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the approximate size of an atom?",
+    "options": [
+      "1 nm",
+      "0.1 nm",
+      "1 μm",
+      "10 nm"
+    ],
+    "answer": 2,
+    "explanation": "Typical atomic radius is about 0.1 nm = 1×10⁻¹⁰ m.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Isotopes of an element have…",
+    "options": [
+      "Different numbers of protons",
+      "Different numbers of neutrons",
+      "Different atomic numbers",
+      "Different charges"
+    ],
+    "answer": 2,
+    "explanation": "Isotopes share proton number but differ in neutron number.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which radiation is most ionising in air?",
+    "options": [
+      "Alpha (α)",
+      "Beta (β)",
+      "Gamma (γ)",
+      "X‑rays"
+    ],
+    "answer": 1,
+    "explanation": "Alpha has the highest ionisation power but lowest penetration.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which term means energy needed to remove an electron from a metal surface?",
+    "options": [
+      "Latent heat",
+      "Work function",
+      "Activation energy",
+      "Half‑life"
+    ],
+    "answer": 2,
+    "explanation": "The photoelectric effect depends on the metal's work function.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Half‑life is…",
+    "options": [
+      "Time for activity to reach zero",
+      "Time for activity to halve",
+      "Time for all nuclei to decay",
+      "Time for count rate to double"
+    ],
+    "answer": 2,
+    "explanation": "Half‑life is the time for the number of undecayed nuclei (or activity) to halve.",
+    "difficulty": "Medium"
+  }
+]
